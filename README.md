@@ -1,22 +1,21 @@
-Author Carpentry : Lesson Template
+Author Carpentry : Identifying reputable Open Access Journals
 =======
 
-A description of the lesson goes here.  If you're reading this on the github
-repo, you see the rendered lesson at:
+*Content Contributors: Gail Clement*
 
-http://authorcarpentry.github.io/lesson-template-mkpage
-
-This template is inspired by the software and data carpentry templates, 
-but it employs the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page.
-
-**Content Contributors: Name **
-
-
-**Lesson Maintainers: Name **
-
+*Lesson Maintainers: Gail Clement*
 
 **Lesson status: In Development**
+
+## Learning Objectives:
+- Review criteria for reputable open access journals established by Directory
+  of Open Access Journals and COPE
+- Apply those criteria to an actual predatory  journal (as evidence by the fact
+  it  is being prosecuted by US Government)
+- Apply those criteria to another OA journal of your choice to determine if it
+  is reputable
+- Using the DOAJ datafile and OpenRefine, create a custom list of 10 reputable
+  OA journals in your field of interest
 
 ## Topics:
 
@@ -73,7 +72,6 @@ Add Content
 * Add individual .md files with lesson topics in repository with leading numbers like: 00-topic1.md;
 01-topic2.md
 * Edit nav.md to set links in the navigation bar
-* Edit CONTRIBUTORS as appropriate
 
 View Lesson
 
