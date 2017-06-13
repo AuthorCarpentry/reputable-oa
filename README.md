@@ -7,7 +7,7 @@ Author Carpentry : Identifying reputable Open Access Journals
 
 **Lesson status: In Development**
 
-## Learning Objectives:
+## What you will learn:
 - Review criteria for reputable open access journals established by Directory
   of Open Access Journals and COPE
 - Apply those criteria to an actual predatory  journal (as evidence by the fact
