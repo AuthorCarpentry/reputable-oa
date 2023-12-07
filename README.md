@@ -3,7 +3,7 @@ Author Carpentry : Identifying reputable Open Access Journals
 
 *Content Contributors: Gail Clement*
 
-*Lesson Maintainers: Gail Clement*
+*Lesson Maintainers: None*
 
 **Lesson status: In Development**
 
