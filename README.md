@@ -5,7 +5,7 @@ Author Carpentry : Identifying reputable Open Access Journals
 
 *Lesson Maintainers: None*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ## What you will learn:
 - Review criteria for reputable open access journals established by Directory
